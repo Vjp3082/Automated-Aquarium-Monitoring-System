@@ -142,9 +142,11 @@ Included documentation:
 
 ## Original Team Repository
 
-**Original Team Repository**
+This project was completed as a collaborative Senior Design project.
 
-*Add your team's GitHub repository link here.*
+The complete team-developed source code is available in the original project repository:
+
+🔗 **Team Repository:** https://github.com/ThoradTM/fish-monitoring
 
 ---
 
