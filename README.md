@@ -136,7 +136,7 @@ Supporting documentation is available in the **docs** folder.
 
 Included documentation:
 
-- [Final Engineering Report](docs/Fish_Monitoring_Device.pdf)
+- [Final Engineering Report](./docs/Fish_Monitoring_Device.pdf)
 
 ---
 
