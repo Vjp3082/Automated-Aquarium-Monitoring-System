@@ -17,7 +17,7 @@ Built around a TI TM4C Series microcontroller running a custom real-time operati
 ## Final Prototype
 
 <p align="center">
-  <img src="images/Final_prototype.jpg" alt="Automated Aquarium Monitoring System Prototype" width="650">
+  <img src="images/Final_prototype.png" alt="Automated Aquarium Monitoring System Prototype" width="650">
 </p>
 
 *Completed prototype of the Automated Aquarium Monitoring System developed during the University of Texas at Arlington Senior Design project.*
